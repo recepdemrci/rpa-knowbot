@@ -1,0 +1,14 @@
+.venv/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
