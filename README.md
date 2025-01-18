@@ -63,4 +63,4 @@ Generates the metadata of PDF article using prompts.
 - `prompts` (str): Prompt of the extracting pdf
 
 **Returns**
--`str`: Generated outputs
+- `str`: Generated outputs
